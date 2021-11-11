@@ -22,8 +22,6 @@ footer {
     background-color: #ffffff;
 }
 
-
-
 .row {
     display: flex;
     justify-content: space-around;
@@ -179,5 +177,5 @@ footer ol li a:hover {
 }
 
 footer small {
-    font-size: 12px;
+    font-size: 11px;
 }
